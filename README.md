@@ -5,3 +5,6 @@ ________________________________
 Данная программа преобразует числа в слова, например: 1003 - одна тысяча три рубля.
 Данная программа написана на питоне и открыть ее можно в любой среде разработки поддерживающий данный язык.
 После открытия файла в IDE запускаете программу и вводите любые числа из заданного диапазона и программа выводюит это число в словестной форме.
+![Image alt](https://github.com/NowStrongTea/-/blob/master/w-G8H6GFIZU.jpg)
+![Image alt](https://github.com/NowStrongTea/-/blob/master/MJ8T3f88osU.jpg)
+![Image alt](https://github.com/NowStrongTea/-/blob/master/-NKTImzq6NM.jpg)
